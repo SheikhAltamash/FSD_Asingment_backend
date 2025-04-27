@@ -65,8 +65,8 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-backend-repository-url>
-    cd <repository-folder-name>
+    git clone https://github.com/SheikhAltamash/FSD_Asingment_backend.git
+    cd FSD_Asingment_backend
     ```
 
 2.  **Install dependencies:**
@@ -97,7 +97,7 @@ Before you begin, ensure you have the following installed:
     node server.js
     ```
 
-The API server should now be running, typically on `http://localhost:5001` (or the port specified in your `.env` file).
+The API server should now be running, typically on `http://localhost:8080` (or the port specified in your `.env` file).
 
 ## API Endpoints
 
